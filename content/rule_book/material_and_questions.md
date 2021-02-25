@@ -108,12 +108,6 @@ The question "Who is anything?" would require the answer:
 
 This is an invalid MA.
 
-Consider 1 Corinthians 9:25:
-
-> Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever.
-
-The question "A crown that will what?" with an answer "Not last; last forever" is an invalid MA.
-
 #### Reference
 
 Reference question type group questions are used to distinguish between exact duplicate words or phrases from the material. The entire reference question is part of the required question and answer.
